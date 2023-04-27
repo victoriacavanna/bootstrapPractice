@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/*---HEADER---*/
+/* navbar */
+.logo{
+    font-family: 'Balsamiq Sans', cursive;
+    color: rgb(97, 74, 217)!important;
+    font-weight: 900;
+    font-size: 2rem;
+}
+.navbar {
+    background-color:rgb(106, 117, 135);
+    width: 100%;
+    padding-left: 5.5rem;
+}
+header ul li a {
+    color: rgb(97, 74, 217) !important;
+    font-weight: 600;
+}
+
+header nav ul li {
+    margin-right: 2rem;
+}
+
+/* introduction section*/
+section.main-section {
+    margin-top: 7rem;
+    margin-bottom: 5.5rem;
+}
+section.main-section img {
+    margin: 0rem 0rem 2rem 0rem;
+    width: 100%;
+}
+
+.main-title {
+    font-size: 70px;
+    color: #343348 !important;
+    font-weight: 900;
+    margin-bottom: 4px;
+}
+section.main-section p {
+    font-size: 1.4rem;
+    font-weight: 500;
+    color:rgb(106, 117, 135);
+    letter-spacing: 0.08rem;
+    margin: 2px 0px 1px 0px;
+}
+/* buttons */
+.btn-store {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 7px;
+}
+.bg-trubank-dark {
+    background-color: rgb(52, 51, 72);
+}
+
+.text-truebank-dark {
+    color: rgb(52, 51, 72);
+}
+.center-element {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#google-play-logo {
+    height: 35px;
+    margin: 0px;
+}
+div.button-text p {
+    font-size: 18px;
+    font-weight: 400;
+}
+div.button-text h5 {
+    font-size: 22px;
+    font-weight: 700;
+}
+/* MAIN */
+/* cards section */
+.card {
+    height: 100%;
+}
+.card-title{
+    font-weight: 600;
+    font-size: 24px;
+}
+.card-text{
+    font-size: 18px;
+    color: rgb(106, 117, 135);
+}
+/*Securuty section*/
+#security-section{
+    margin-top: 8rem;
+}
+#security-section img{
+    width: 75%;
+}
+article h2{
+    color: rgb(52, 51, 72);
+    font-weight: 700;
+}
+
+article p{
+    color: rgb(106, 117, 135);
+    font-weight: 450;
+    font-size: 18px;
+    letter-spacing: -0.13px;
+    line-height: 1.7;
+}
+
+.icon {
+    font-size: 2.3rem;
+}
+
+.security {
+    margin-top: 4rem;
+}
+.security h3{
+    color:rgb(52, 51, 72);
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#security-text {
+    color: rgb(106, 117, 135);
+    font-size: 18px;
+    letter-spacing: -0.13px;
+    line-height: 1.7;
+}
+
+/* FOOTER */ 
+footer {
+    height: 10rem;
+    background-color: #F6F7F8;
+    padding: 3rem;
+}
+section.footer-section {
+    display: flex;
+}
+#logo-socialmedia {
+    margin: 0.2rem;
+    color:rgb(106, 117, 135);
+    font-size: 1.3rem;
+}
+.logos-footer {
+    margin-left: 2rem;
+    height: 100px;
+}
